@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EasyWeather</string>
+    <string name="title_activity_bug_submit">BugSubmitActivity</string>
+</resources>
